@@ -21,6 +21,8 @@ git clone https://github.com/Nikolina94/My-Store
 ```
 
 npm install cypress --save-dev
+
+```
 npx cypress open
 
 ```
