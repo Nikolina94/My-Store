@@ -21,6 +21,7 @@ git clone https://github.com/Nikolina94/My-Store
 ## Open Cypress UI via GitBash (second instance)
 ```
 
-npm install
-npm run cypress:open
+npm install cypress --save-dev
+npx cypress open
+
 ```
