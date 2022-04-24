@@ -6,7 +6,6 @@
     - 'Log.spec.js'
     - 'Logout.spec.js'
     - 'CreateOrder.spec.js'
- 
 
 ## Prerequisites
 
