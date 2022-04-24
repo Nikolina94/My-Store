@@ -17,7 +17,7 @@
 ## Clone repp with next command
 git clone https://github.com/Nikolina94/My-Store
 
-## Open Cypress UI via GitBash (second instance)
+## Open Cypress UI via GitBash (first instance)
 ```
 
 npm install cypress --save-dev
