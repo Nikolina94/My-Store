@@ -11,7 +11,7 @@ describe("Smoke Test Suite", () => {
     cy.url().should('include', 'authentication&back=my-account')
 
     //Enter data
-    cy.get("#email_create").type("test445@email.com");
+    cy.get("#email_create").type("test777@email.com");
 
     //Click [Create an account]
     cy.get('#SubmitCreate').click();
